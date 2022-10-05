@@ -1,3 +1,1 @@
-Project - 0x00. Shell, basics
-
-0x00-shell_basics - Tasks
+0x00-shell_basics
